@@ -1,0 +1,12 @@
+{ 
+  "token": "MzQ4Nzg2Njk1NzQ0NzgyMzM2.DH2gFA.2UqBnsjM8pZ1GrrZZAAlMA1SFR0",
+  "client_id": "348786695744782336",
+  "carbon_key": "add if bot is on carbonitex",
+  "bots_key": "bot key goes here",
+  "prefix": ">",
+  "ads": [".biz", ".com", ".me", ".co.uk", ".support", ".website", ".ie", ".xyz", ".tk"],
+  "whitelist": ["! Splash"],
+  "role_whitelist": ["Tulajdonos"],
+  "owner": "Steven",
+  "owner_id": "224883648170557440"
+}
